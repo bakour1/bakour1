@@ -1,17 +1,17 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Sami bakkour</h1>
+<h1 align="center">Hi 👋, I'm Sami bakkour</h1>
 <h3 align="center">A passionate frontend developer from Syria</h3>
 
-- ðŸ”­ Iâ€™m currently working on **Freelance**
+- 🔭 I’m currently working on **Freelance**
 
-- ðŸŒ± Iâ€™m currently learning **tailwindcss and reacte**
+- 🌱 I’m currently learning **tailwindcss and reacte**
 
-- ðŸ‘¨â€ðŸ’» All of my projects are available at [samibakkour.com](samibakkour.com)
+- 👨‍💻 All of my projects are available at [samibakkour.com](samibakkour.com)
 
-- ðŸ’¬ Ask me about **Html, css, javascript, bootstrap, responsive website, deal hosting, tailwindcss, Typescript, coomand line, sass**
+- 💬 Ask me about **Html, css, javascript, bootstrap, responsive website, deal hosting, tailwindcss, Typescript, coomand line, sass**
 
-- ðŸ“« How to reach me **bakour512@gmail.com**
+- 📫 How to reach me **bakour512@gmail.com**
 
-- ðŸ“„ Know about my experiences [samibakkour.com , samibakkour.com/apps/quizapp](samibakkour.com , samibakkour.com/apps/quizapp)
+- 📄 Know about my experiences [samibakkour.com , samibakkour.com/apps/quizapp](samibakkour.com , samibakkour.com/apps/quizapp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
