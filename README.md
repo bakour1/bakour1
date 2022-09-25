@@ -117,7 +117,7 @@
 
 - [x] learning tailwindcss
 - [x] website [manage] by tailwindcss
-- [ ] twitter clone by tailwindcss
+- [x] twitter clone by tailwindcss
 
 
 ## traning 
