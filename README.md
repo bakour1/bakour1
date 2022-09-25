@@ -127,8 +127,8 @@
 
 ## UI KIT
 
-- [x] create my ui kit
-- [x] dashbord Elzero my ui kit
+- [ ] create my ui kit
+- [ ] dashbord Elzero my ui kit
 
 
 .
