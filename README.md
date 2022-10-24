@@ -85,7 +85,7 @@
 ## Portfolio
 - [x] Github Profile
 - [x] Linkedin Profile
-- [ ] Resume
+- [x] Resume
 - [x] design my website
 - [x] create my website
 - [x] learn hostinger hpanel
@@ -122,13 +122,13 @@
 
 ## traning 
  - ### typescript and tailwind
-- [ ] memory Game by typescript and tailwind
+- [x] memory Game by typescript and tailwind
 
 
 ## UI KIT
 
-- [ ] create my ui kit
-- [ ] dashbord Elzero my ui kit
+- [x] create my ui kit
+- [x] dashbord Elzero my ui kit
 
 
 .
