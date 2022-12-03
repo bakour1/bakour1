@@ -146,6 +146,11 @@
 - [ ] Design Patterns
 - [ ] Package Managers
 
+##  Frameworks & librarys
+
+- [x] React
+- [ ] jquary
+
 ## Save Time Skills
 
 - [ ] Pugjs
